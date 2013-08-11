@@ -1,0 +1,3 @@
+Den finska kcm-filen är ungefär samma som den svenska. Det var den som fick saker att börja hända. (Och det är den jag använder för tillfället) 
+
+Om man vill veta varför ens kcm-fil inte laddar så kan man köra "logcat" som su i android när man kopplar in sitt tangentbord.
